@@ -1,7 +1,7 @@
-<H3>Enter Name: Yogabharathi S</H3>
-<H3>Enter Register No: 212222230179</H3>
+<H3>Enter Name: Mallu Jagadeeswar Reddy</H3>
+<H3>Enter Register No: 212222240059</H3>
 <H3>Experiment:2</H3>
-<H3>Date:07.09.2024 </H3>
+<H3>Date:13.09.2024 </H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
